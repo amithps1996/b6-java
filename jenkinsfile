@@ -34,7 +34,5 @@ stages {
       sh './scripts/deliver.sh'
     }
   }
-
 }
-
 }
